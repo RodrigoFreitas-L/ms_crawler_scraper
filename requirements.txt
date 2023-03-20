@@ -1,0 +1,5 @@
+black
+flake8
+parsel
+requests
+bs4
